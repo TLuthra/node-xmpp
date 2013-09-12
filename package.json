@@ -1,13 +1,13 @@
 {
-  "name": "node-xmpp",
-  "version": "0.6.1",
+  "name": "xmpp-lib",
+  "version": "0.0.1",
   "main": "./lib/node-xmpp",
   "browserify": "./lib/node-xmpp-browserify",
   "description": "Idiomatic XMPP client, component & server library for node.js + browserify",
-  "author": "Astro",
+  "author": "Tanooj Luthra",
   "dependencies": {
     "browserify": "~2.18.1",
-    "node-expat": ">=1.4.1",
+    "node-expat": "1.6.0",
     "ltx": ">= 0.2.0",
     "request": ">= 2.9.153",
     "browser-request": ">= 0.2.0",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/astro/node-xmpp.git"
+    "url": "git://github.com/TLuthra/node-xmpp.git"
   },
   "homepage": "http://github.com/astro/node-xmpp",
   "bugs": "http://github.com/astro/node-xmpp/issues",
