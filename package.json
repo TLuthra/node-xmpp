@@ -7,6 +7,7 @@
   "author": "Tanooj Luthra",
   "dependencies": {
     "browserify": "~2.18.1",
+    "node-expat": "1.6.0",
     "ltx": ">= 0.2.0",
     "request": ">= 2.9.153",
     "browser-request": ">= 0.2.0",
